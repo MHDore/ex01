@@ -34,6 +34,13 @@ void main () {
 
 
 
+
+
+
+
+
+
+
 // ---------------------------------------------------
 
 //DU CODE EN PYTHON Que J'AI GLANÉ SUR LE WEB (AVEC LA DISPOSITION EN PYRAMIDE (à vérifier)
@@ -61,21 +68,7 @@ void main () {
 
 // ---------------------------------------------------------
 
-//NE FONCTIONNE PAS OU PAS ABOUTI
-//void main() {
-// var x = 1;
-// var r = x*x;
-// var i=0;
-// print("$x*$x=$r");
-// if (x< 111111111);
-// x=x*11;
-  
-// i=i+1;
-// print("$x*$x=$r");
-//}
 
-
-// --------------------------------------------------
 
 //PAS ABOUTI ET NE FONCTIONNE PAS
 //void main() {
@@ -169,22 +162,6 @@ void main () {
 
 //}
 
-// --------------------------------------------------
-// CODE QUI NE FONCTIONNE PAS
-
-//void main() {
-
-//def Talkhys1 ;
-// var n = 0;
-// Talkhys1 = Talkhys1 (n) ;
-  
-// a = 10*a + 1 ; // ne me permettait pas de multiplier 10 par a
-// var r = a*a ;
-// print("$a*$a=$r") ;
-
-//print (Talkhys1 (9)) ;
-  
-//}
 
 // --------------------------------------------------
 // FONCTIONNE MAIS C'EST RIDICULE COMME CODE
